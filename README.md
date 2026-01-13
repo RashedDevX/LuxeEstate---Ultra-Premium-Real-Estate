@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="LuxeEstate Banner" src="https://prnt.sc/F2o9xlNCpsJC" />
+  <img width="1200" height="475" alt="LuxeEstate Banner" src="https://github.com/RashedDevX/LuxeEstate---Ultra-Premium-Real-Estate/blob/main/Screenshot_104.png" />
 
   # 💎 LuxeEstate - Ultra Premium Real Estate
   **Your Gateway to Exquisite Properties & Luxury Living.**
@@ -28,9 +28,9 @@
 Here are some sneak peeks of the platform in action:
 
 <p align="center">
-  <img src="" alt="LuxeEstate Screenshot 1" width="30%" style="margin: 5px;" />
-  <img src="" alt="LuxeEstate Screenshot 2" width="30%" style="margin: 5px;" />
-  <img src="" alt="LuxeEstate Screenshot 3" width="30%" style="margin: 5px;" />
+  <img src="https://github.com/RashedDevX/LuxeEstate---Ultra-Premium-Real-Estate/blob/main/Screenshot_104.png" alt="LuxeEstate Screenshot 1" width="30%" style="margin: 5px;" />
+  <img src="https://github.com/RashedDevX/LuxeEstate---Ultra-Premium-Real-Estate/blob/main/Screenshot_105.png" alt="LuxeEstate Screenshot 2" width="30%" style="margin: 5px;" />
+  <img src="https://github.com/RashedDevX/LuxeEstate---Ultra-Premium-Real-Estate/blob/main/Screenshot_106.png" alt="LuxeEstate Screenshot 3" width="30%" style="margin: 5px;" />
 </p>
 
 ---
